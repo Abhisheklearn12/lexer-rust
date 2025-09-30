@@ -78,7 +78,7 @@ lexer-rust/
 ### Clone and Build
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Abhisheklearn12/lexer-rust.git
 cd lexer-rust
 cargo build
 ```
