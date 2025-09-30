@@ -89,17 +89,10 @@ cargo build
 cargo run
 ```
 
-Example output:
+## Example output:
 
-```
-   1:1-1:3  Keyword(fn)
-   1:4-1:7  Identifier(add)
-   1:8-1:9  (
-   1:10-1:11 Identifier(x)
-   1:12-1:13 ,
-   1:14-1:15 Identifier(y)
-   ...
-```
+![Output Image](media/lexer-output.png)
+
 
 ### Run Tests
 
